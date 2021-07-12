@@ -1,0 +1,2 @@
+H:\C++\PJ 7 – Loan Payment Report\Debug\PJ 7 – Loan Payment Report.exe
+H:\C++\PJ 7 – Loan Payment Report\Debug\PJ 7 – Loan Payment Report.pdb

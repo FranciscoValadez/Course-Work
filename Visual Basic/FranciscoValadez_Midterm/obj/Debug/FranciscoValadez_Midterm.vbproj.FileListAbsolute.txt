@@ -1,0 +1,24 @@
+C:\Users\sharp\source\repos\FranciscoValadez_Midterm\bin\Debug\FranciscoValadez_Midterm.exe.config
+C:\Users\sharp\source\repos\FranciscoValadez_Midterm\bin\Debug\FranciscoValadez_Midterm.exe
+C:\Users\sharp\source\repos\FranciscoValadez_Midterm\bin\Debug\FranciscoValadez_Midterm.pdb
+C:\Users\sharp\source\repos\FranciscoValadez_Midterm\bin\Debug\FranciscoValadez_Midterm.xml
+C:\Users\sharp\source\repos\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.vbprojAssemblyReference.cache
+C:\Users\sharp\source\repos\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.Form1.resources
+C:\Users\sharp\source\repos\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.Resources.resources
+C:\Users\sharp\source\repos\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.vbproj.GenerateResource.cache
+C:\Users\sharp\source\repos\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.vbproj.CoreCompileInputs.cache
+C:\Users\sharp\source\repos\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.exe
+C:\Users\sharp\source\repos\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.xml
+C:\Users\sharp\source\repos\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.pdb
+H:\Visual Basic\FranciscoValadez_Midterm\bin\Debug\FranciscoValadez_Midterm.exe.config
+H:\Visual Basic\FranciscoValadez_Midterm\bin\Debug\FranciscoValadez_Midterm.exe
+H:\Visual Basic\FranciscoValadez_Midterm\bin\Debug\FranciscoValadez_Midterm.pdb
+H:\Visual Basic\FranciscoValadez_Midterm\bin\Debug\FranciscoValadez_Midterm.xml
+H:\Visual Basic\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.vbprojAssemblyReference.cache
+H:\Visual Basic\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.Form1.resources
+H:\Visual Basic\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.Resources.resources
+H:\Visual Basic\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.vbproj.GenerateResource.cache
+H:\Visual Basic\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.exe
+H:\Visual Basic\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.xml
+H:\Visual Basic\FranciscoValadez_Midterm\obj\Debug\FranciscoValadez_Midterm.pdb

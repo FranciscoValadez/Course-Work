@@ -1,0 +1,4 @@
+﻿  Tic-Tac-Toe Game Check.cpp
+H:\C++\Tic-Tac-Toe Game Check\Tic-Tac-Toe Game Check.cpp(54,7): warning C4101: 'p': unreferenced local variable
+H:\C++\Tic-Tac-Toe Game Check\Tic-Tac-Toe Game Check.cpp(53,7): warning C4101: 'G': unreferenced local variable
+  Tic-Tac-Toe Game Check.vcxproj -> H:\C++\Tic-Tac-Toe Game Check\Debug\Tic-Tac-Toe Game Check.exe

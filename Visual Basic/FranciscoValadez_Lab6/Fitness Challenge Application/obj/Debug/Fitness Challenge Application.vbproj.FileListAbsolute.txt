@@ -1,0 +1,24 @@
+H:\Visual Basic\Fitness Challenge Application\bin\Debug\Fitness Challenge Application.exe.config
+H:\Visual Basic\Fitness Challenge Application\bin\Debug\Fitness Challenge Application.exe
+H:\Visual Basic\Fitness Challenge Application\bin\Debug\Fitness Challenge Application.pdb
+H:\Visual Basic\Fitness Challenge Application\bin\Debug\Fitness Challenge Application.xml
+H:\Visual Basic\Fitness Challenge Application\obj\Debug\Fitness Challenge Application.vbprojAssemblyReference.cache
+H:\Visual Basic\Fitness Challenge Application\obj\Debug\Fitness_Challenge_Application.Resources.resources
+H:\Visual Basic\Fitness Challenge Application\obj\Debug\Fitness Challenge Application.vbproj.GenerateResource.cache
+H:\Visual Basic\Fitness Challenge Application\obj\Debug\Fitness Challenge Application.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Fitness Challenge Application\obj\Debug\Fitness Challenge Application.exe
+H:\Visual Basic\Fitness Challenge Application\obj\Debug\Fitness Challenge Application.xml
+H:\Visual Basic\Fitness Challenge Application\obj\Debug\Fitness Challenge Application.pdb
+H:\Visual Basic\Fitness Challenge Application\obj\Debug\Fitness_Challenge_Application.frmFitness.resources
+H:\Visual Basic\FranciscoValadez_Lab6\Fitness Challenge Application\bin\Debug\Fitness Challenge Application.exe.config
+H:\Visual Basic\FranciscoValadez_Lab6\Fitness Challenge Application\bin\Debug\Fitness Challenge Application.exe
+H:\Visual Basic\FranciscoValadez_Lab6\Fitness Challenge Application\bin\Debug\Fitness Challenge Application.pdb
+H:\Visual Basic\FranciscoValadez_Lab6\Fitness Challenge Application\bin\Debug\Fitness Challenge Application.xml
+H:\Visual Basic\FranciscoValadez_Lab6\Fitness Challenge Application\obj\Debug\Fitness Challenge Application.vbprojAssemblyReference.cache
+H:\Visual Basic\FranciscoValadez_Lab6\Fitness Challenge Application\obj\Debug\Fitness_Challenge_Application.frmFitness.resources
+H:\Visual Basic\FranciscoValadez_Lab6\Fitness Challenge Application\obj\Debug\Fitness_Challenge_Application.Resources.resources
+H:\Visual Basic\FranciscoValadez_Lab6\Fitness Challenge Application\obj\Debug\Fitness Challenge Application.vbproj.GenerateResource.cache
+H:\Visual Basic\FranciscoValadez_Lab6\Fitness Challenge Application\obj\Debug\Fitness Challenge Application.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\FranciscoValadez_Lab6\Fitness Challenge Application\obj\Debug\Fitness Challenge Application.exe
+H:\Visual Basic\FranciscoValadez_Lab6\Fitness Challenge Application\obj\Debug\Fitness Challenge Application.xml
+H:\Visual Basic\FranciscoValadez_Lab6\Fitness Challenge Application\obj\Debug\Fitness Challenge Application.pdb

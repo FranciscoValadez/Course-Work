@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "London Tube Tickets", "London Tube Tickets.vbproj", "{81C6E3B4-D905-4190-A345-029D7E4D0A90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C6E3B4-D905-4190-A345-029D7E4D0A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C6E3B4-D905-4190-A345-029D7E4D0A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C6E3B4-D905-4190-A345-029D7E4D0A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C6E3B4-D905-4190-A345-029D7E4D0A90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F0AD6DA-6BAE-4253-807D-278BCB2AF622}
+	EndGlobalSection
+EndGlobal

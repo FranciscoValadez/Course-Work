@@ -1,0 +1,2 @@
+H:\C++\CS116_PJ1\Debug\CS116_PJ1.exe
+H:\C++\CS116_PJ1\Debug\CS116_PJ1.pdb

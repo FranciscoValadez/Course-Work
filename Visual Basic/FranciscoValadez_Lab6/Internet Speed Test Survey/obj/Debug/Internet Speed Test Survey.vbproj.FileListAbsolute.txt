@@ -1,0 +1,12 @@
+H:\Visual Basic\FranciscoValadez_Lab6\Internet Speed Test Survey\bin\Debug\Internet Speed Test Survey.exe.config
+H:\Visual Basic\FranciscoValadez_Lab6\Internet Speed Test Survey\bin\Debug\Internet Speed Test Survey.exe
+H:\Visual Basic\FranciscoValadez_Lab6\Internet Speed Test Survey\bin\Debug\Internet Speed Test Survey.pdb
+H:\Visual Basic\FranciscoValadez_Lab6\Internet Speed Test Survey\bin\Debug\Internet Speed Test Survey.xml
+H:\Visual Basic\FranciscoValadez_Lab6\Internet Speed Test Survey\obj\Debug\Internet Speed Test Survey.vbprojAssemblyReference.cache
+H:\Visual Basic\FranciscoValadez_Lab6\Internet Speed Test Survey\obj\Debug\Internet_Speed_Test_Survey.Internet.resources
+H:\Visual Basic\FranciscoValadez_Lab6\Internet Speed Test Survey\obj\Debug\Internet_Speed_Test_Survey.Resources.resources
+H:\Visual Basic\FranciscoValadez_Lab6\Internet Speed Test Survey\obj\Debug\Internet Speed Test Survey.vbproj.GenerateResource.cache
+H:\Visual Basic\FranciscoValadez_Lab6\Internet Speed Test Survey\obj\Debug\Internet Speed Test Survey.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\FranciscoValadez_Lab6\Internet Speed Test Survey\obj\Debug\Internet Speed Test Survey.exe
+H:\Visual Basic\FranciscoValadez_Lab6\Internet Speed Test Survey\obj\Debug\Internet Speed Test Survey.xml
+H:\Visual Basic\FranciscoValadez_Lab6\Internet Speed Test Survey\obj\Debug\Internet Speed Test Survey.pdb

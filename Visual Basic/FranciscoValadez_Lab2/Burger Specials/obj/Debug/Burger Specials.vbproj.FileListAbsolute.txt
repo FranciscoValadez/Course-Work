@@ -1,0 +1,12 @@
+H:\Visual Basic\FranciscoValadez_Lab2\Burger Specials\bin\Debug\Burger Specials.exe.config
+H:\Visual Basic\FranciscoValadez_Lab2\Burger Specials\bin\Debug\Burger Specials.exe
+H:\Visual Basic\FranciscoValadez_Lab2\Burger Specials\bin\Debug\Burger Specials.pdb
+H:\Visual Basic\FranciscoValadez_Lab2\Burger Specials\bin\Debug\Burger Specials.xml
+H:\Visual Basic\FranciscoValadez_Lab2\Burger Specials\obj\Debug\Burger Specials.vbprojAssemblyReference.cache
+H:\Visual Basic\FranciscoValadez_Lab2\Burger Specials\obj\Debug\Burger_Specials.frmBurgerSpecial.resources
+H:\Visual Basic\FranciscoValadez_Lab2\Burger Specials\obj\Debug\Burger_Specials.Resources.resources
+H:\Visual Basic\FranciscoValadez_Lab2\Burger Specials\obj\Debug\Burger Specials.vbproj.GenerateResource.cache
+H:\Visual Basic\FranciscoValadez_Lab2\Burger Specials\obj\Debug\Burger Specials.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\FranciscoValadez_Lab2\Burger Specials\obj\Debug\Burger Specials.exe
+H:\Visual Basic\FranciscoValadez_Lab2\Burger Specials\obj\Debug\Burger Specials.xml
+H:\Visual Basic\FranciscoValadez_Lab2\Burger Specials\obj\Debug\Burger Specials.pdb

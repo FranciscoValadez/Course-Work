@@ -1,0 +1,2 @@
+H:\C++\PJ 5 – Simple Calculator\Debug\PJ 5 – Simple Calculator.exe
+H:\C++\PJ 5 – Simple Calculator\Debug\PJ 5 – Simple Calculator.pdb

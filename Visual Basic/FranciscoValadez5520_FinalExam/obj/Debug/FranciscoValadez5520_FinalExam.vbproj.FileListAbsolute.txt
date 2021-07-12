@@ -1,0 +1,26 @@
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\bin\Debug\FranciscoValadez5520_FinalExam.exe.config
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\bin\Debug\FranciscoValadez5520_FinalExam.exe
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\bin\Debug\FranciscoValadez5520_FinalExam.pdb
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\bin\Debug\FranciscoValadez5520_FinalExam.xml
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.vbprojAssemblyReference.cache
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.frmApartment.resources
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.Resources.resources
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.vbproj.GenerateResource.cache
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.vbproj.CoreCompileInputs.cache
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.exe
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.xml
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.pdb
+C:\Users\sharp\source\repos\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.frmCities.resources
+H:\Visual Basic\FranciscoValadez5520_FinalExam\bin\Debug\FranciscoValadez5520_FinalExam.exe.config
+H:\Visual Basic\FranciscoValadez5520_FinalExam\bin\Debug\FranciscoValadez5520_FinalExam.exe
+H:\Visual Basic\FranciscoValadez5520_FinalExam\bin\Debug\FranciscoValadez5520_FinalExam.pdb
+H:\Visual Basic\FranciscoValadez5520_FinalExam\bin\Debug\FranciscoValadez5520_FinalExam.xml
+H:\Visual Basic\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.vbprojAssemblyReference.cache
+H:\Visual Basic\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.frmApartment.resources
+H:\Visual Basic\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.frmCities.resources
+H:\Visual Basic\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.Resources.resources
+H:\Visual Basic\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.vbproj.GenerateResource.cache
+H:\Visual Basic\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.exe
+H:\Visual Basic\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.xml
+H:\Visual Basic\FranciscoValadez5520_FinalExam\obj\Debug\FranciscoValadez5520_FinalExam.pdb

@@ -1,0 +1,12 @@
+H:\Visual Basic\FranciscoValadez_Lab2\Latte Selection\bin\Debug\Latte Selection.exe.config
+H:\Visual Basic\FranciscoValadez_Lab2\Latte Selection\bin\Debug\Latte Selection.exe
+H:\Visual Basic\FranciscoValadez_Lab2\Latte Selection\bin\Debug\Latte Selection.pdb
+H:\Visual Basic\FranciscoValadez_Lab2\Latte Selection\bin\Debug\Latte Selection.xml
+H:\Visual Basic\FranciscoValadez_Lab2\Latte Selection\obj\Debug\Latte Selection.vbprojAssemblyReference.cache
+H:\Visual Basic\FranciscoValadez_Lab2\Latte Selection\obj\Debug\Latte_Selection.Form1.resources
+H:\Visual Basic\FranciscoValadez_Lab2\Latte Selection\obj\Debug\Latte_Selection.Resources.resources
+H:\Visual Basic\FranciscoValadez_Lab2\Latte Selection\obj\Debug\Latte Selection.vbproj.GenerateResource.cache
+H:\Visual Basic\FranciscoValadez_Lab2\Latte Selection\obj\Debug\Latte Selection.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\FranciscoValadez_Lab2\Latte Selection\obj\Debug\Latte Selection.exe
+H:\Visual Basic\FranciscoValadez_Lab2\Latte Selection\obj\Debug\Latte Selection.xml
+H:\Visual Basic\FranciscoValadez_Lab2\Latte Selection\obj\Debug\Latte Selection.pdb

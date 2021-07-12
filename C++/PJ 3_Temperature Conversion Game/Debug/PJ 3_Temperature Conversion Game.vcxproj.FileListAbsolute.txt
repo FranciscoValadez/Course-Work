@@ -1,0 +1,2 @@
+C:\Users\sharp\source\repos\PJ 3_Temperature Conversion Game\Debug\PJ 3_Temperature Conversion Game.exe
+C:\Users\sharp\source\repos\PJ 3_Temperature Conversion Game\Debug\PJ 3_Temperature Conversion Game.pdb

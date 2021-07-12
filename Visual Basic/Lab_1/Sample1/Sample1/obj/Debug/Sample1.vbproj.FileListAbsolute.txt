@@ -1,0 +1,12 @@
+H:\Visual Basic\Lab_1\Sample1\Sample1\bin\Debug\Sample1.exe.config
+H:\Visual Basic\Lab_1\Sample1\Sample1\bin\Debug\Sample1.exe
+H:\Visual Basic\Lab_1\Sample1\Sample1\bin\Debug\Sample1.pdb
+H:\Visual Basic\Lab_1\Sample1\Sample1\bin\Debug\Sample1.xml
+H:\Visual Basic\Lab_1\Sample1\Sample1\obj\Debug\Sample1.vbprojAssemblyReference.cache
+H:\Visual Basic\Lab_1\Sample1\Sample1\obj\Debug\Sample1.Form1.resources
+H:\Visual Basic\Lab_1\Sample1\Sample1\obj\Debug\Sample1.Resources.resources
+H:\Visual Basic\Lab_1\Sample1\Sample1\obj\Debug\Sample1.vbproj.GenerateResource.cache
+H:\Visual Basic\Lab_1\Sample1\Sample1\obj\Debug\Sample1.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Lab_1\Sample1\Sample1\obj\Debug\Sample1.exe
+H:\Visual Basic\Lab_1\Sample1\Sample1\obj\Debug\Sample1.xml
+H:\Visual Basic\Lab_1\Sample1\Sample1\obj\Debug\Sample1.pdb

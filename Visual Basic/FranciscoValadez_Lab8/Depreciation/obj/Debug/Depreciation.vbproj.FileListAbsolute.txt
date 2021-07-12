@@ -1,0 +1,13 @@
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\bin\Debug\Depreciation.exe.config
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\bin\Debug\Depreciation.exe
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\bin\Debug\Depreciation.pdb
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\bin\Debug\Depreciation.xml
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\obj\Debug\Depreciation.vbprojAssemblyReference.cache
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\obj\Debug\Depreciation.Resources.resources
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\obj\Debug\Depreciation.vbproj.GenerateResource.cache
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\obj\Debug\Depreciation.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\obj\Debug\Depreciation.exe
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\obj\Debug\Depreciation.xml
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\obj\Debug\Depreciation.pdb
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\obj\Debug\Depreciation.Form1.resources
+H:\Visual Basic\FranciscoValadez_Lab8\Depreciation\obj\Debug\Depreciation.frmDisplayInventory.resources

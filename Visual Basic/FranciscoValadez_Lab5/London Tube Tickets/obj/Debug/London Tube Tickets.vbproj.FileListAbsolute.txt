@@ -1,0 +1,12 @@
+H:\Visual Basic\FranciscoValadez_Lab5\London Tube Tickets\bin\Debug\London Tube Tickets.exe.config
+H:\Visual Basic\FranciscoValadez_Lab5\London Tube Tickets\bin\Debug\London Tube Tickets.exe
+H:\Visual Basic\FranciscoValadez_Lab5\London Tube Tickets\bin\Debug\London Tube Tickets.pdb
+H:\Visual Basic\FranciscoValadez_Lab5\London Tube Tickets\bin\Debug\London Tube Tickets.xml
+H:\Visual Basic\FranciscoValadez_Lab5\London Tube Tickets\obj\Debug\London Tube Tickets.vbprojAssemblyReference.cache
+H:\Visual Basic\FranciscoValadez_Lab5\London Tube Tickets\obj\Debug\London_Tube_Tickets.frmLondon.resources
+H:\Visual Basic\FranciscoValadez_Lab5\London Tube Tickets\obj\Debug\London_Tube_Tickets.Resources.resources
+H:\Visual Basic\FranciscoValadez_Lab5\London Tube Tickets\obj\Debug\London Tube Tickets.vbproj.GenerateResource.cache
+H:\Visual Basic\FranciscoValadez_Lab5\London Tube Tickets\obj\Debug\London Tube Tickets.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\FranciscoValadez_Lab5\London Tube Tickets\obj\Debug\London Tube Tickets.exe
+H:\Visual Basic\FranciscoValadez_Lab5\London Tube Tickets\obj\Debug\London Tube Tickets.xml
+H:\Visual Basic\FranciscoValadez_Lab5\London Tube Tickets\obj\Debug\London Tube Tickets.pdb

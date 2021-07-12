@@ -1,0 +1,13 @@
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\bin\Debug\Karaoke Music Night.exe.config
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\bin\Debug\Karaoke Music Night.exe
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\bin\Debug\Karaoke Music Night.pdb
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\bin\Debug\Karaoke Music Night.xml
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\obj\Debug\Karaoke Music Night.vbprojAssemblyReference.cache
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\obj\Debug\Karaoke_Music_Night.frmKaraoke.resources
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\obj\Debug\Karaoke_Music_Night.Resources.resources
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\obj\Debug\Karaoke Music Night.vbproj.GenerateResource.cache
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\obj\Debug\Karaoke Music Night.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\obj\Debug\Karaoke Music Night.exe
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\obj\Debug\Karaoke Music Night.xml
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\obj\Debug\Karaoke Music Night.pdb
+H:\Visual Basic\FranciscoValadez_Lab7\Karaoke Music Night\obj\Debug\Karaoke_Music_Night.SplashScreen1.resources

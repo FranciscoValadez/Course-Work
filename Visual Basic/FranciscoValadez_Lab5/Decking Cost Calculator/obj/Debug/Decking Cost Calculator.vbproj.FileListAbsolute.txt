@@ -1,0 +1,12 @@
+H:\Visual Basic\FranciscoValadez_Lab5\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe.config
+H:\Visual Basic\FranciscoValadez_Lab5\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe
+H:\Visual Basic\FranciscoValadez_Lab5\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.pdb
+H:\Visual Basic\FranciscoValadez_Lab5\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.xml
+H:\Visual Basic\FranciscoValadez_Lab5\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbprojAssemblyReference.cache
+H:\Visual Basic\FranciscoValadez_Lab5\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.Resources.resources
+H:\Visual Basic\FranciscoValadez_Lab5\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.GenerateResource.cache
+H:\Visual Basic\FranciscoValadez_Lab5\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\FranciscoValadez_Lab5\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.exe
+H:\Visual Basic\FranciscoValadez_Lab5\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.xml
+H:\Visual Basic\FranciscoValadez_Lab5\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.pdb
+H:\Visual Basic\FranciscoValadez_Lab5\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.frmDecking.resources
